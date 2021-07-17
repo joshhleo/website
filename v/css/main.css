@@ -1885,7 +1885,7 @@ h1 span {
   font-size: 14px;
 }
 .card .btn-link.collapsed {
-  color: #838383;
+  color: #000000;
 }
 .card .btn-link.collapsed:hover {
   color: #575757;
