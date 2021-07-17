@@ -1848,7 +1848,7 @@ h1 span {
   position: relative;
   width: 100%;
   text-align: left;
-  color: #477bbf;
+  color: #545454;
   font-size: 20px;
   line-height: 23px;
   text-decoration: none;
@@ -1881,7 +1881,7 @@ h1 span {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   opacity: 0.71;
-  color: #477bbf;
+  color: #545454;
   font-size: 14px;
 }
 .card .btn-link.collapsed {
