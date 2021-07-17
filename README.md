@@ -7,5 +7,5 @@
 
 ## 🖥 Links
 - https://hcspook.com
-- https://hcspook.com/discord
 - https://hcspook.com/twitter
+- https://hcspook.com/discord
