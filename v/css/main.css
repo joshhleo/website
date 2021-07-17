@@ -1857,11 +1857,11 @@ h1 span {
   white-space: normal;
 }
 .card .btn-link:hover {
-  color: #477bbf;
+  color: #545454;
   text-decoration: none;
 }
 .card .btn-link:hover:after {
-  color: #477bbf;
+  color: #545454;
 }
 .card .btn-link:after {
   font-family: icomoon !important;
@@ -1885,10 +1885,10 @@ h1 span {
   font-size: 14px;
 }
 .card .btn-link.collapsed {
-  color: #000000;
+  color: #838383;
 }
 .card .btn-link.collapsed:hover {
-  color: #575757;
+  color: #545454;
   text-decoration: none;
 }
 .card .btn-link.collapsed:after {
