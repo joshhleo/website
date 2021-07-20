@@ -1714,13 +1714,13 @@ input[type="submit"]:hover {
   color: #fff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
   font-size: 26px;
-  padding: 8px;
+  padding: 10px;
 }
 .main-block .main-block-holder img {
   width: 101px;
   height: auto;
   display: block;
-  margin: 0 auto 8px;
+  margin: 0 auto 6px;
 }
 .main-block h1 {
   font-size: 49px;
