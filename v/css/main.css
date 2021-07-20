@@ -1717,10 +1717,10 @@ input[type="submit"]:hover {
   padding: 10px;
 }
 .main-block .main-block-holder img {
-  width: 99px;
+  width: 100x;
   height: auto;
   display: block;
-  margin: 0 auto 8px;
+  margin: 0 auto 0px;
 }
 .main-block h1 {
   font-size: 49px;
