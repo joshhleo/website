@@ -1717,7 +1717,7 @@ input[type="submit"]:hover {
   padding: 10px;
 }
 .main-block .main-block-holder img {
-  width: auto;
+  width: 101px;
   height: auto;
   display: block;
   margin: 0 auto 8px;
