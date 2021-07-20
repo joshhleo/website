@@ -1706,9 +1706,6 @@ input[type="submit"] {
   border-radius: 4px;
   cursor: pointer;
 }
-input[type="submit"]:hover {
-  background-color: #45a049;
-}
 .main-block .main-block-holder {
   text-align: center;
   color: #fff;
@@ -1720,7 +1717,7 @@ input[type="submit"]:hover {
   width: 99px;
   height: auto;
   display: block;
-  margin: auto auto 8px;
+  margin: 0 auto 8px;
 }
 .main-block h1 {
   font-size: 49px;
