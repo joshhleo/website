@@ -1720,7 +1720,7 @@ input[type="submit"]:hover {
   width: 100px;
   height: auto;
   display: block;
-  margin: auto auto 8px;
+  margin: 0 auto 8px;
 }
 .main-block h1 {
   font-size: 49px;
