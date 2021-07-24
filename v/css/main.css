@@ -1425,7 +1425,7 @@ pre code {
   margin-right: 0 !important;
 }
 .navbar-nav .active .nav-link {
-  color: #545454 !important;
+  color: #1f62d3 !important;
 }
 .navbar-nav .nav-link {
   font-size: 12px;
@@ -1438,7 +1438,7 @@ pre code {
   letter-spacing: 1px;
 }
 .navbar-nav .nav-link:hover {
-  color: #c7c7c7 !important;
+  color: #4a87e6 !important;
 }
 .navbar-nav li {
   margin-left: 12px;
