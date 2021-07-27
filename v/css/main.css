@@ -163,7 +163,7 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 a:hover {
-  color: #6188b0;
+  color: #f8ad1e;
   text-decoration: underline;
 }
 a:not([href]):not([tabindex]) {
