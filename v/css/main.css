@@ -1854,11 +1854,11 @@ h1 span {
   white-space: normal;
 }
 .card .btn-link:hover {
-  color: #545454;
+  color: #bb3a25;
   text-decoration: none;
 }
 .card .btn-link:hover:after {
-  color: #545454;
+  color: #bb3a25;
 }
 .card .btn-link:after {
   font-family: icomoon !important;
@@ -1878,14 +1878,14 @@ h1 span {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   opacity: 0.71;
-  color: #545454;
+  color: #bb3a25;
   font-size: 14px;
 }
 .card .btn-link.collapsed {
-  color: #838383;
+  color: #f8ae19;
 }
 .card .btn-link.collapsed:hover {
-  color: #545454;
+  color: #bb3a25;
   text-decoration: none;
 }
 .card .btn-link.collapsed:after {
