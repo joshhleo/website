@@ -67,7 +67,7 @@ body {
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.2142857;
-  color: #bb3a25;
+  color: #2453b9;
   text-align: left;
   background-color: #f5f5f5;
   padding: 8px 24px 0 20px;
@@ -1558,7 +1558,7 @@ pre code {
   height: auto;
 }
 .social-networks a:hover {
-  color: #bb3a25;
+  color: #2453b9;
 }
 .social-networks a:hover img {
   opacity: 1;
@@ -1845,7 +1845,7 @@ h1 span {
   position: relative;
   width: 100%;
   text-align: left;
-  color: #bb3a25;
+  color: #2453b9;
   font-size: 20px;
   line-height: 23px;
   text-decoration: none;
@@ -1854,11 +1854,11 @@ h1 span {
   white-space: normal;
 }
 .card .btn-link:hover {
-  color: #bb3a25;
+  color: #2453b9;
   text-decoration: none;
 }
 .card .btn-link:hover:after {
-  color: #bb3a25;
+  color: #2453b9;
 }
 .card .btn-link:after {
   font-family: icomoon !important;
@@ -1878,14 +1878,14 @@ h1 span {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   opacity: 0.71;
-  color: #bb3a25;
+  color: #2453b9;
   font-size: 14px;
 }
 .card .btn-link.collapsed {
   color: #f8ae19;
 }
 .card .btn-link.collapsed:hover {
-  color: #bb3a25;
+  color: #2453b9;
   text-decoration: none;
 }
 .card .btn-link.collapsed:after {
