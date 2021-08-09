@@ -163,7 +163,7 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 a:hover {
-  color: #f8ad1e;
+  color: #1ea8f8;
   text-decoration: underline;
 }
 a:not([href]):not([tabindex]) {
@@ -1438,7 +1438,7 @@ pre code {
   letter-spacing: 1px;
 }
 .navbar-nav .nav-link:hover {
-  color: #f8ad1e !important;
+  color: #1ea8f8 !important;
 }
 .navbar-nav li {
   margin-left: 12px;
